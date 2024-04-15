@@ -11,7 +11,8 @@ export const skillsData = [
   'ExpressJs',
   'MongoDB',
   'MySQL',
+  'Canva',
   'Git',
   'Firebase',
   'Strapi'
-]
+  ]
