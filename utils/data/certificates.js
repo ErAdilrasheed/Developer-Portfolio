@@ -1,9 +1,9 @@
 export const certificatesData = [
-  'DotNet',
-  'MobileHacking',
-  'EthicalHacking',
-  'Python',
-  'HTMLCSS',
-  'JSCertificate',
-  'Frontend',
+  'dotnet',
+  'mobilehacking',
+  'ethicalhacking',
+  'python',
+  'htmlcss',
+  'jscertificate',
+  'frontend',
 ]
