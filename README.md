@@ -64,9 +64,9 @@ git --version
 To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone https://github.com/<YOUR GITHUB USERNAME>/Developer-Portfolio.git
 
-cd developer-portfolio
+cd Developer-Portfolio
 ```
 
 ### Install packages from the root directory
@@ -101,31 +101,30 @@ NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
 NEXT_PUBLIC_GTM = # For site analytics
 NEXT_PUBLIC_APP_URL = "http://127.0.0.1:3000"
-NEXT_PUBLIC_RECAPTCHA_SECRET_KEY = # For captcha verification on contact form
-NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/ErAdilrasheed/Developer-Portfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
+  name: "Mohammad Adil Rasheed",
+  profile: "./public/profile.png",
+  designation: "Frontend Stack Developer",
+  description:
+    "My name is Mohammad Adil Rasheed. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  email: "er.adilrasheed@gmail.com",
+  phone: "+919616316925",
+  address: "Mau, Uttar Pradesh, India ",
+  github: "https://github.com/eradilrasheed",
+  facebook: "https://www.facebook.com/Er.MARasheed/",
+  linkedIn: "https://www.linkedin.com/in/adilrasheedknit/",
+  twitter: "https://twitter.com/er_marasheed",
+  stackOverflow:"https://stackoverflow.com/users/23922646/mohammad-adil-rasheed",
+  leetcode: "https://leetcode.com/adilrasheed/",
+  devUsername: "adil4474",
+  resume:"https://drive.google.com/file/d/1P7D3prQb-mQsHavdQtcXYkq1k2coBJmz/view?usp=drive_link",
 };
 ```
 
