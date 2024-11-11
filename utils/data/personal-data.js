@@ -13,6 +13,6 @@ export const personalData = {
   twitter: "https://twitter.com/er_marasheed",
   stackOverflow:"https://stackoverflow.com/users/23922646/mohammad-adil-rasheed",
   leetcode: "https://leetcode.com/adilrasheed/",
-  devUsername: "adil4474",
+  devUsername: "adilrasheed",
   resume:"https://drive.google.com/file/d/1D4xLWQej-iOLH5surdE7T2TIgAsoG0-z/view?usp=sharing",
 };
