@@ -70,13 +70,13 @@ function ProjectCard({ project }) {
             </a>
           </div>
           <div>
-            <a href="https://adilrasheed.me">
+            <a href="https://adilrasheed.tech">
             <span className="ml-4 lg:ml-8 mr-2 text-white">Demo2:</span>
             <span className="text-blue-400">{project.demo2}</span>
             </a>
           </div>
           <div>
-            <a href="https://maumart.live">
+            <a href="https://maumart.vercel.app">
             <span className="ml-4 lg:ml-8 mr-2 text-white">Demo3:</span>
             <span className="text-blue-400">{project.demo3}</span>
             </a>
